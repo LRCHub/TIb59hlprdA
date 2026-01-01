@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "あなたしか見えないの",
+  "base_artist": "r-906",
+  "createdAt": "2026-01-01T07:41:39.504957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたしか見えないの",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/01_あなたしか見えないの_r-906.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたしか見えないの",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_あなたしか見えないの_r-906.txt"
+    }
+  ]
+}
